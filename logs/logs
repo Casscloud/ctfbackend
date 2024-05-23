@@ -1,0 +1,241 @@
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+ERROR port.py:122 Could not determine join condition between parent/child tables on relationship Team.member - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.
+INFO _internal.py:96 127.0.0.1 - - [03/Dec/2023 06:52:25] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\__init__.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 108-215-978
+ERROR problem_admin.py:85 (pymysql.err.IntegrityError) (1062, "Duplicate entry 'test' for key 'problems.name'")
+[SQL: INSERT INTO problems (tag, name, flag, content, link, filename, file_path, points, create_time, update_time) VALUES (%(tag)s, %(name)s, %(flag)s, %(content)s, %(link)s, %(filename)s, %(file_path)s, %(points)s, %(create_time)s, %(update_time)s)]
+[parameters: {'tag': 'pwn', 'name': 'test', 'flag': '1', 'content': '1', 'link': None, 'filename': 'test.sql', 'file_path': 'D:/projects/ctfbackend/storage\\test.sql', 'points': '100', 'create_time': datetime.datetime(2023, 12, 26, 13, 31, 26, 34073), 'update_time': datetime.datetime(2023, 12, 26, 13, 31, 26, 34073)}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 13:31:26] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 108-215-978
+ERROR problem_admin.py:85 (pymysql.err.IntegrityError) (1062, "Duplicate entry 'test' for key 'problems.name'")
+[SQL: INSERT INTO problems (tag, name, flag, content, link, filename, file_path, points, create_time, update_time) VALUES (%(tag)s, %(name)s, %(flag)s, %(content)s, %(link)s, %(filename)s, %(file_path)s, %(points)s, %(create_time)s, %(update_time)s)]
+[parameters: {'tag': 'pwn', 'name': 'test', 'flag': '1', 'content': '1', 'link': None, 'filename': 'test.sql', 'file_path': 'D:/projects/ctfbackend/storage\\test.sql', 'points': '100', 'create_time': datetime.datetime(2023, 12, 26, 13, 32, 42, 466621), 'update_time': datetime.datetime(2023, 12, 26, 13, 32, 42, 466621)}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 13:32:42] "POST /admin/problem HTTP/1.1" 200 -
+ERROR problem_admin.py:85 (pymysql.err.IntegrityError) (1062, "Duplicate entry 'test' for key 'problems.name'")
+[SQL: INSERT INTO problems (tag, name, flag, content, link, filename, file_path, points, create_time, update_time) VALUES (%(tag)s, %(name)s, %(flag)s, %(content)s, %(link)s, %(filename)s, %(file_path)s, %(points)s, %(create_time)s, %(update_time)s)]
+[parameters: {'tag': 'reverse', 'name': 'test', 'flag': '1', 'content': '1', 'link': None, 'filename': 'test.sql', 'file_path': 'D:/projects/ctfbackend/storage\\test.sql', 'points': '100', 'create_time': datetime.datetime(2023, 12, 26, 13, 35, 0, 60233), 'update_time': datetime.datetime(2023, 12, 26, 13, 35, 0, 60233)}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 13:35:00] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 13:37:05] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:05:58] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:05:58] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:05:58] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:05:58] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:05:58] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:06:16] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:06:16] "POST /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:06:18] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:06:18] "OPTIONS /problem_menu HTTP/1.1" 200 -
+ERROR problem.py:25 'Query' object has no attribute 'id'
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:06:18] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:06:33] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:06:33] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:06:33] "OPTIONS /problem_menu HTTP/1.1" 200 -
+ERROR problem.py:25 'Query' object has no attribute 'id'
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:06:33] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:07:21] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:07:31] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:07:31] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:07:31] "OPTIONS /problem_menu HTTP/1.1" 200 -
+ERROR problem.py:25 'Query' object has no attribute 'id'
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:07:31] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:11:02] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:11:02] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:11:02] "OPTIONS /problem_menu HTTP/1.1" 200 -
+ERROR problem.py:25 'Query' object has no attribute 'id'
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:11:02] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\problem.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 108-215-978
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:12:59] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:12:59] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:12:59] "OPTIONS /problem_menu HTTP/1.1" 200 -
+ERROR problem.py:25 'NoneType' object has no attribute 'id'
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:12:59] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\problem.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 108-215-978
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:14:43] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:14:43] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:14:43] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:14:43] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:15:24] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:17:17] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:17:17] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:17:17] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:17:17] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:14] "OPTIONS /admin/problem/20 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:14] "GET /admin/problem/20 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:18] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:18] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:22] "OPTIONS /admin/problem/28 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:22] "GET /admin/problem/28 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:27] "GET /download/28 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:33] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:33] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:41] "OPTIONS /delete/problem/28 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:41] "DELETE /delete/problem/28 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:43] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:43] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:43] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:43] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:50] "OPTIONS /admin/problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:50] "GET /admin/problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:18:53] "GET /download/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:19:21] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:19:21] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:19:23] "OPTIONS /admin/problem/7 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:19:23] "GET /admin/problem/7 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:19:32] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:19:32] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:19:50] "OPTIONS /admin/problem/19 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:19:50] "GET /admin/problem/19 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:20:02] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:20:02] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:20:17] "OPTIONS /admin/problem/20 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:20:17] "GET /admin/problem/20 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:20:33] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:20:33] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:30:18] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:30:20] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:30:20] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:30:20] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:30:20] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:56:25] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:56:25] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:56:25] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:56:25] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:56:52] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:56:53] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:56:53] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:56:53] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:56:53] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:57:36] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:57:36] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:57:36] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:57:36] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:57:42] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:57:42] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:57:42] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:57:42] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:57:55] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:57:56] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:57:56] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:57:56] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 14:57:56] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:30:42] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:30:42] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:30:42] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:30:42] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:30:50] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:30:50] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:30:50] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:30:50] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:30:53] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:30:53] "DELETE /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:30:55] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:30:55] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:30:55] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:30:55] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:30:55] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:31:01] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:31:01] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:31:07] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:31:07] "POST /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:31:09] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:31:09] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:31:09] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:31:48] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:31:51] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:31:51] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:31:51] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:31:51] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:56:38] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:56:38] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:56:38] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:56:38] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:58:44] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:58:44] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:58:44] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:58:44] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 15:59:58] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:01:39] "[31m[1mGET /admin/problem HTTP/1.1[0m" 405 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:01:46] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:01:46] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:01:46] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:01:46] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:03:12] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:05:00] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:09:51] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:09:51] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:09:51] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:09:51] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:10:05] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:10:11] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:10:11] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:10:11] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:10:11] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:10:26] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\problem_admin.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 108-215-978
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:14:07] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:14:07] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:14:07] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:14:07] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:14:18] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:16:33] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:16:33] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:16:33] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:16:33] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:16:42] "OPTIONS /admin/problem/29 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:16:42] "GET /admin/problem/29 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:16:46] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:16:46] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:16:56] "OPTIONS /delete/problem/29 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:16:56] "DELETE /delete/problem/29 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:16:58] "OPTIONS /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:16:58] "GET /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:16:58] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:16:58] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:17:02] "OPTIONS /admin/problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:17:02] "GET /admin/problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:17:05] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 16:17:05] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\problem_admin.py', reloading
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 108-215-978
+INFO _internal.py:96 127.0.0.1 - - [28/Dec/2023 00:14:29] "POST /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Dec/2023 00:14:53] "POST /admin/problem HTTP/1.1" 200 -
+ERROR problem_admin.py:89 (pymysql.err.IntegrityError) (1062, "Duplicate entry '1' for key 'problems.flag'")
+[SQL: INSERT INTO problems (tag, name, flag, content, link, filename, file_path, points, create_time, update_time) VALUES (%(tag)s, %(name)s, %(flag)s, %(content)s, %(link)s, %(filename)s, %(file_path)s, %(points)s, %(create_time)s, %(update_time)s)]
+[parameters: {'tag': 'reverse', 'name': 'tttt', 'flag': '1', 'content': '1', 'link': None, 'filename': 'flask_ctf.sql', 'file_path': 'D:/projects/ctfbackend/storage\\flask_ctf.sql', 'points': '100', 'create_time': datetime.datetime(2023, 12, 28, 0, 49, 7, 275175), 'update_time': datetime.datetime(2023, 12, 28, 0, 49, 7, 275175)}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO _internal.py:96 127.0.0.1 - - [28/Dec/2023 00:49:07] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Dec/2023 00:49:43] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Dec/2023 00:50:28] "[31m[1mDELETE /admin/problem/32 HTTP/1.1[0m" 405 -
+INFO _internal.py:96 127.0.0.1 - - [28/Dec/2023 00:51:10] "[33mDELETE /dalete/problem/32 HTTP/1.1[0m" 404 -
+INFO _internal.py:96 127.0.0.1 - - [28/Dec/2023 00:51:58] "DELETE /delete/problem/32 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Dec/2023 00:52:04] "DELETE /delete/problem/30 HTTP/1.1" 200 -

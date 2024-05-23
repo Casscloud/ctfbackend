@@ -1,0 +1,2101 @@
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.21.222.64:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 16:44:25] "[35m[1mOPTIONS /session HTTP/1.1[0m" 500 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 16:44:27] "[35m[1mOPTIONS /session HTTP/1.1[0m" 500 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 16:44:55] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 16:44:55] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 16:45:17] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 16:45:34] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 16:45:37] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 16:45:37] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 16:46:08] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 16:46:28] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 16:47:08] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\__init__.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:35:16] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:35:17] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:35:33] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:35:34] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:35:35] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.21.222.64:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:36:31] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:36:31] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:36:51] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:36:53] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:36:53] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:37:13] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:37:27] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:37:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:37:30] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:37:36] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\app.py', reloading
+INFO _internal.py:96  * Restarting with stat
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.21.222.64:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:40:11] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:40:48] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:41:22] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:41:56] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\app.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:43:36] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:43:41] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 17:43:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 19:17:55] "DELETE /session HTTP/1.1" 200 -
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.21.222.64:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 19:37:33] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 19:37:33] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 19:37:33] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 19:37:56] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 19:37:59] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 19:37:59] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 19:38:46] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 19:39:01] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 19:39:04] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 19:39:05] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 19:39:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\app.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 20:07:48] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 20:07:48] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 20:08:05] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 20:08:07] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 20:08:07] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.21.222.64:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.21.222.64:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:12:27] "[35m[1mOPTIONS /session HTTP/1.1[0m" 500 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:12:29] "[35m[1mOPTIONS /session HTTP/1.1[0m" 500 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:12:57] "[35m[1mOPTIONS /session HTTP/1.1[0m" 500 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:13:32] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:13:32] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:13:34] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:13:34] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:13:36] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:13:36] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\__init__.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:15:32] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:15:32] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:15:34] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:15:34] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:15:36] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:15:36] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:16:05] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:16:05] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:16:27] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:16:27] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:16:30] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:16:31] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\__init__.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:19:20] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:19:20] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:19:31] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:19:31] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:19:33] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:19:34] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:22:41] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:23:01] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\__init__.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:23:18] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:23:38] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:23:44] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:37:28] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:37:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:37:34] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 10.21.222.64 - - [27/Nov/2023 23:37:38] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:34] "OPTIONS /confirm/InpoYW5nX3ppcGVpQHNpbmEuY29tIg.ZVSxLw.v2wp1WBmbg4ZK8_UNbcZTPc9s0Q HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:34] "GET /confirm/InpoYW5nX3ppcGVpQHNpbmEuY29tIg.ZVSxLw.v2wp1WBmbg4ZK8_UNbcZTPc9s0Q HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:34] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:34] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:34] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:40] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:41] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:43] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:43] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:43] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:51] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:51] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:51] "OPTIONS /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:51] "GET /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:55] "OPTIONS /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:55] "GET /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:57] "OPTIONS /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:53:57] "GET /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:54:09] "OPTIONS /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:54:09] "GET /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:54:11] "OPTIONS /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:54:11] "GET /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:54:24] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:54:24] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:54:31] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:54:31] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:54:31] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:54:31] "[31m[1mPOST /problem_menu HTTP/1.1[0m" 400 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:54:33] "[31m[1mPOST /problem_menu HTTP/1.1[0m" 400 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 00:54:35] "[31m[1mPOST /problem_menu HTTP/1.1[0m" 400 -
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:56:46] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:56:46] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:56:46] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:56:53] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:56:53] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:56:55] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:56:55] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:56:55] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:56:59] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:56:59] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:56:59] "OPTIONS /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:56:59] "GET /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:57:14] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:57:14] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:57:14] "OPTIONS /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:57:14] "OPTIONS /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:57:14] "GET /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:57:14] "GET /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:57:27] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:57:27] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:57:27] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:57:27] "[31m[1mPOST /problem_menu HTTP/1.1[0m" 400 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:57:33] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:57:33] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:57:33] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:57:33] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:57:33] "[31m[1mPOST /problem_menu HTTP/1.1[0m" 400 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:58:16] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:58:16] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:58:21] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:58:21] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:58:21] "[31m[1mPOST /problem_menu HTTP/1.1[0m" 400 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:58:25] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:58:25] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:58:27] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:58:27] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:58:27] "[31m[1mPOST /problem_menu HTTP/1.1[0m" 400 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:58:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:58:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 09:58:29] "[31m[1mPOST /problem_menu HTTP/1.1[0m" 400 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 10:00:14] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 10:00:38] "POST /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 10:01:03] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 10:01:03] "DELETE /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 10:01:05] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 10:01:05] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 10:01:07] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 10:01:08] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 10:01:08] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 10:01:08] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 10:01:10] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 10:01:10] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 10:01:10] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 10:01:10] "[31m[1mPOST /problem_menu HTTP/1.1[0m" 400 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 10:01:23] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 10:01:55] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:22:51] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:22:51] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:22:51] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:23:03] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:23:03] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:23:03] "OPTIONS /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:23:03] "GET /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:23:12] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:23:12] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:23:12] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:23:12] "[31m[1mGET /writeup_menu HTTP/1.1[0m" 405 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\writeup.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:24:10] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:24:10] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:24:11] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:24:11] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:24:11] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:24:44] "OPTIONS /writeup/1 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:24:44] "GET /writeup/1 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:25:11] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:25:11] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:25:11] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:25:11] "[31m[1mPOST /problem_menu HTTP/1.1[0m" 400 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:50:42] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:50:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:50:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:50:44] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:50:44] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:50:44] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:50:52] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:50:52] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:50:52] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:50:52] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:50:52] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:51:36] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:51:36] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:51:38] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:51:38] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:51:38] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:51:55] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:51:55] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:51:55] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:51:55] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:51:55] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:52:45] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:52:45] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:52:45] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:52:45] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:52:45] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:57:37] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:57:37] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:57:37] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:57:40] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:57:40] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:57:40] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:57:44] "OPTIONS /writeup/undefined HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:57:44] "[35m[1mGET /writeup/undefined HTTP/1.1[0m" 500 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:57:55] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:57:56] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:15] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:15] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:22] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:22] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:22] "OPTIONS /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:22] "OPTIONS /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:22] "GET /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:22] "GET /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:25] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:25] "OPTIONS /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:25] "GET /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:26] "GET /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:27] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:27] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:27] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:27] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:29] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:29] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:32] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:32] "OPTIONS /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:32] "GET /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:46] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:46] "DELETE /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:48] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:58:48] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:16] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:16] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:19] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:21] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:21] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:21] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:24] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:26] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:26] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:26] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:27] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:27] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:27] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:27] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:36] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:36] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:36] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:36] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:36] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:50] "OPTIONS /writeup/undefined HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:50] "[35m[1mGET /writeup/undefined HTTP/1.1[0m" 500 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:52] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:52] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 16:59:54] "[35m[1mGET /writeup/undefined HTTP/1.1[0m" 500 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:00:32] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:00:32] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:00:32] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:00:32] "OPTIONS /writeup/undefined HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:00:32] "[35m[1mGET /writeup/undefined HTTP/1.1[0m" 500 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:00:57] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:00:57] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:00:57] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:06] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:06] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:06] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:06] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:07] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:07] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:07] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:25] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:25] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:34] "OPTIONS /writeup/my_writeup?action=delete_my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:34] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:34] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:34] "POST /writeup/my_writeup?action=delete_my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:37] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:37] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:43] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:43] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:44] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:44] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:45] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:45] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:45] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:56] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:01:56] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:02:02] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:02:02] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:02:02] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:02:02] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:02:06] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:02:06] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:02:06] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:02:10] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:02:10] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:03:05] "OPTIONS /writeup/my_writeup?action=add_my_writeup HTTP/1.1" 200 -
+ERROR writeup.py:145 (pymysql.err.IntegrityError) (1452, 'Cannot add or update a child row: a foreign key constraint fails (`flask_ctf`.`writeups`, CONSTRAINT `writeups_ibfk_1` FOREIGN KEY (`problem_name`) REFERENCES `problems` (`name`))')
+[SQL: INSERT INTO writeups (problem_name, user_name, tag, name, content, create_time, update_time) VALUES (%(problem_name)s, %(user_name)s, %(tag)s, %(name)s, %(content)s, %(create_time)s, %(update_time)s)]
+[parameters: {'problem_name': '', 'user_name': 'test', 'tag': 'web', 'name': 'writeup2', 'content': 'content2', 'create_time': datetime.datetime(2023, 11, 28, 17, 3, 5, 540894), 'update_time': datetime.datetime(2023, 11, 28, 17, 3, 5, 540894)}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:03:05] "POST /writeup/my_writeup?action=add_my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:12:01] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:12:01] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:12:01] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:12:03] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:12:03] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:12:03] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:12:06] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:12:06] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:12:06] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:12:06] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:12:08] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:12:08] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:12:40] "OPTIONS /writeup/my_writeup?action=change_my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:12:40] "POST /writeup/my_writeup?action=change_my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:12:42] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:12:42] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:13:16] "OPTIONS /writeup/my_writeup?action=add_my_writeup HTTP/1.1" 200 -
+ERROR writeup.py:145 (pymysql.err.IntegrityError) (1452, 'Cannot add or update a child row: a foreign key constraint fails (`flask_ctf`.`writeups`, CONSTRAINT `writeups_ibfk_1` FOREIGN KEY (`problem_name`) REFERENCES `problems` (`name`))')
+[SQL: INSERT INTO writeups (problem_name, user_name, tag, name, content, create_time, update_time) VALUES (%(problem_name)s, %(user_name)s, %(tag)s, %(name)s, %(content)s, %(create_time)s, %(update_time)s)]
+[parameters: {'problem_name': '', 'user_name': 'test', 'tag': 'web', 'name': 'writeup1', 'content': 'content1', 'create_time': datetime.datetime(2023, 11, 28, 17, 13, 16, 995545), 'update_time': datetime.datetime(2023, 11, 28, 17, 13, 16, 995545)}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:13:17] "POST /writeup/my_writeup?action=add_my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\writeup.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:20:44] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:20:44] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:20:44] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:20:44] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:21:09] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:21:09] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:21:15] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:21:15] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:04] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:04] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:04] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:42] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:42] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:42] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:50] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:50] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:50] "OPTIONS /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:50] "OPTIONS /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:50] "GET /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:50] "GET /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:56] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:56] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:56] "OPTIONS /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:56] "GET /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:58] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:58] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:22:58] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:23:04] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:23:04] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:23:04] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:23:04] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:23:09] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:23:09] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:26:38] "OPTIONS /writeup/my_writeup?action=change_my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:26:38] "POST /writeup/my_writeup?action=change_my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:26:40] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:26:40] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:26:43] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:26:43] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:27:55] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:27:55] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:27:55] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:27:55] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:27:55] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:27:55] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:28:44] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:28:44] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:28:44] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:28:48] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:28:48] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:28:48] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:28:50] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:28:50] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:28:50] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:28:50] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:28:52] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:28:52] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:29:15] "OPTIONS /writeup/my_writeup?action=change_my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:29:15] "POST /writeup/my_writeup?action=change_my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:29:17] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:29:17] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:29:19] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:29:19] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:08] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:08] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:08] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:08] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:08] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:08] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:28] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:28] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:28] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:30] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:30] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:30] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:31] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:31] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:31] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:33] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:33] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:41] "OPTIONS /writeup/my_writeup?action=change_my_writeup HTTP/1.1" 200 -
+ERROR writeup.py:130 (pymysql.err.IntegrityError) (1452, 'Cannot add or update a child row: a foreign key constraint fails (`flask_ctf`.`writeups`, CONSTRAINT `writeups_ibfk_1` FOREIGN KEY (`problem_name`) REFERENCES `problems` (`name`))')
+[SQL: UPDATE writeups SET problem_name=%(problem_name)s, update_time=%(update_time)s WHERE writeups.id = %(writeups_id)s]
+[parameters: {'problem_name': 'problem1', 'update_time': datetime.datetime(2023, 11, 28, 17, 31, 41, 194136), 'writeups_id': 3}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:31:41] "POST /writeup/my_writeup?action=change_my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:35:11] "OPTIONS /writeup/my_writeup?action=change_my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:35:11] "POST /writeup/my_writeup?action=change_my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:35:13] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:35:13] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:35:15] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:35:15] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\writeup.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:37:01] "OPTIONS /writeup/my_writeup?action=change_my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:37:01] "POST /writeup/my_writeup?action=change_my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:37:03] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:37:03] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:37:52] "OPTIONS /writeup/my_writeup?action=add_my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:37:52] "POST /writeup/my_writeup?action=add_my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:37:54] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:37:54] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:38:13] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:38:13] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:33] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:33] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:34] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:34] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:38] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:38] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:38] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:38] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:40] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:40] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:40] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:44] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:44] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:44] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:44] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:46] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:47] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:47] "OPTIONS /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:47] "GET /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:54] "OPTIONS /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:39:54] "GET /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:25] "OPTIONS /confirm/InpoYW5nX3ppcGVpQHNpbmEuY29tIg.ZVSxLw.v2wp1WBmbg4ZK8_UNbcZTPc9s0Q HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:25] "GET /confirm/InpoYW5nX3ppcGVpQHNpbmEuY29tIg.ZVSxLw.v2wp1WBmbg4ZK8_UNbcZTPc9s0Q HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:25] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:25] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:25] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:25] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:27] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:27] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:27] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:30] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:30] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:32] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:32] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:32] "OPTIONS /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:32] "GET /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:36] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:36] "OPTIONS /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:36] "GET /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:52] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:52] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:52] "OPTIONS /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:40:52] "GET /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:44:52] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:44:52] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:44:52] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:44:52] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:44:53] "OPTIONS /problem/2 HTTP/1.1" 200 -
+ERROR problem.py:80 'NoneType' object has no attribute 'status'
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:44:53] "GET /problem/2 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:44:59] "OPTIONS /problem/2 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:44:59] "POST /problem/2 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:45:05] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:45:05] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:45:05] "OPTIONS /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:45:05] "GET /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:47:42] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:47:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:47:43] "OPTIONS /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:47:43] "GET /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:47:50] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:47:50] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:47:50] "OPTIONS /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:47:50] "OPTIONS /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:47:50] "GET /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:47:50] "GET /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:49:18] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:49:18] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:49:18] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:49:18] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:49:23] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:49:23] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:49:23] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:49:30] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:49:30] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:49:33] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:49:33] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:49:33] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:49:33] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:51:32] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:51:32] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:51:35] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:51:35] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:51:35] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:51:36] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:51:36] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:51:47] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:51:47] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:53:05] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:53:05] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:53:05] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:53:05] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 17:53:05] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\writeup.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\problem_admin.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 18:48:01] "[35m[1mGET /admin/problem?action=add_problem HTTP/1.1[0m" 500 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 18:48:44] "POST /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 18:48:56] "[31m[1mGET /admin/problem?action=add_problem HTTP/1.1[0m" 405 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 18:49:06] "[31m[1mPOST /admin/problem?action=add_problem HTTP/1.1[0m" 415 -
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 18:53:52] "[31m[1mPOST /admin/problem?action=add_problem HTTP/1.1[0m" 415 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\problem_admin.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 18:59:47] "[31m[1mPOST /admin/problem?action=add_problem HTTP/1.1[0m" 415 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\problem_admin.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 19:08:06] "POST /admin/problem?action=add_problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 19:10:16] "POST /admin/problem?action=add_problem HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\problem_admin.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\app.py', reloading
+INFO _internal.py:96  * Restarting with stat
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 19:26:02] "[35m[1mDELETE /admin/problem/4 HTTP/1.1[0m" 500 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\app.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 19:27:15] "DELETE /admin/problem/4 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [28/Nov/2023 19:31:06] "GET /download/problem/5 HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\problem.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\problem.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\assign.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\assign.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\assign.py', reloading
+INFO _internal.py:96  * Restarting with stat
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4200
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\app.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:13] "[35m[1mOPTIONS /session HTTP/1.1[0m" 500 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:15] "[35m[1mOPTIONS /session HTTP/1.1[0m" 500 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:19] "[35m[1mOPTIONS /session HTTP/1.1[0m" 500 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:47] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:48] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:49] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:49] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:50] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:50] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:50] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:50] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:51] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:51] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:51] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:51] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:53] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:53] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:53] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:37:53] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:38:17] "OPTIONS /problem/5 HTTP/1.1" 200 -
+ERROR problem.py:80 'NoneType' object has no attribute 'status'
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:38:17] "GET /problem/5 HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\problem.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\problem.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:48:22] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:48:22] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:48:22] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:48:22] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:48:22] "OPTIONS /problem/5 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:48:22] "GET /problem/5 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:48:25] "GET /download/5 HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\utils\\constants.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:58:57] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:58:57] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:58:58] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:58:58] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:58:58] "OPTIONS /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:58:58] "GET /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:59:04] "OPTIONS /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 17:59:04] "GET /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:09:43] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:09:43] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:09:43] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:09:45] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:09:45] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:09:45] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:09:48] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:09:48] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:09:55] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:09:55] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:09:56] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:09:56] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:09:56] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:09:56] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:17:22] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:17:22] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:17:22] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:17:22] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:17:24] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:17:24] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:17:24] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:22:50] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:22:50] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:22:50] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:22:50] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:22:51] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:22:51] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:22:51] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:22:52] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:22:52] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:22:54] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:22:54] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:22:58] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:22:58] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:22:58] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:22:58] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:22:59] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:22:59] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:23:02] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:23:02] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:23:02] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:23:03] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:23:03] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:23:03] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:23:03] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:23:53] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:23:53] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:23:57] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:23:57] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:24:13] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:24:13] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:24:13] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:24:13] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:24:14] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:24:14] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:06] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:06] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:06] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:06] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:06] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:06] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:10] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:10] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:12] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:12] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:12] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:12] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:24] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:24] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:26] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:26] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:26] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:36] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:36] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:36] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:29:36] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:34:24] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:34:24] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:34:24] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:34:24] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:34:24] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:34:24] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:34:33] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:34:33] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:34:33] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:34:33] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:34:33] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:34:33] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:34:33] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:34:35] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:34:35] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:34:35] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:35:02] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:35:02] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:35:07] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:35:07] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:35:11] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:35:11] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:35:11] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:35:11] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:38:40] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:38:40] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:38:40] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:38:41] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:38:41] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:38:41] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:42:35] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:42:35] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:42:35] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:42:35] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:42:35] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:42:35] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:44:44] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:44:44] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:44:44] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:44:44] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:44:44] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:44:44] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:46:20] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:46:20] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:46:20] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:46:20] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:46:20] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:46:20] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:47:38] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:47:38] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:47:38] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:47:38] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:47:39] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:47:39] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:47:39] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:47:40] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:47:40] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:47:40] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:47:50] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:47:50] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:47:52] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:47:52] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:47:52] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:47:52] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:48:02] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:48:02] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:48:02] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:48:02] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:48:03] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:48:03] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:48:03] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:48:30] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:48:30] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:48:30] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:48:30] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:48:30] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:48:30] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:01] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:01] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:01] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:01] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:01] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:01] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:06] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:06] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:06] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:06] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:06] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:06] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:07] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:07] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:07] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:07] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:15] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:15] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:15] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:15] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:15] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:15] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:24] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:24] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:24] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:24] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:24] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:24] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:29] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:29] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:50:29] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:51:46] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:51:46] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:51:46] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:51:47] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:51:47] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:51:47] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:52:05] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:52:05] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:52:05] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:52:05] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:52:05] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:52:05] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:19] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:19] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:19] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:19] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:19] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:19] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:26] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:26] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:27] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:27] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:27] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:29] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:29] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:33] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:33] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:49] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:49] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:49] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:49] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:50] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:50] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:50] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:52] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:54] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:55:54] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:03] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:03] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:03] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:03] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:03] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:11] "OPTIONS /writeup/7 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:11] "GET /writeup/7 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:13] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:13] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:15] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:15] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:15] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:15] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:17] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:17] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:19] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:19] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:54] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:54] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:54] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:54] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:56:54] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:04] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:04] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:04] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:04] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:07] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:07] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:07] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:07] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:09] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:09] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:09] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:09] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:12] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:12] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:12] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:12] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:12] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:12] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:55] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:55] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:55] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:57] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:57] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:57] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:58] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:58] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:57:58] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:58:27] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:58:27] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:58:27] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:58:27] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:58:27] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 18:58:27] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:00:17] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:00:17] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:00:17] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:00:17] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:00:17] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:00:17] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:01:29] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:01:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:01:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:01:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:01:29] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:01:29] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:03:39] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:03:39] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:03:39] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:03:39] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:03:39] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:03:39] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:06:13] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:06:13] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:06:13] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:06:13] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:06:13] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:06:13] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:09:42] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:09:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:09:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:09:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:09:42] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:09:42] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:11:08] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:11:08] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:11:08] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:11:09] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:11:09] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:11:09] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:11:10] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:11:10] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:11:11] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:11:11] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:13:02] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:13:02] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:13:02] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:13:02] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:13:02] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:13:02] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:16:32] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:16:32] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:16:32] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:16:32] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:16:32] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:16:32] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:18:37] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:18:37] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:18:37] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:18:37] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:18:37] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:18:37] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:24:29] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:24:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:24:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:24:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:24:29] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:24:29] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:24:53] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:24:53] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:24:53] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:24:53] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:24:53] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:24:53] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:25:42] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:25:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:25:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:25:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:25:42] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:25:42] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:29:23] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:29:23] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:29:23] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:29:23] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:29:23] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:29:23] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:30:45] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:30:45] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:30:46] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:30:46] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:30:46] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:30:46] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:30:49] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:30:49] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:30:49] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:30:49] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:32:11] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:32:11] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:32:11] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:32:11] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:32:11] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:32:11] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:32:23] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:32:23] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:32:27] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:32:27] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:32:27] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:32:29] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:32:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:32:29] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:32:29] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:32:30] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:02] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:02] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:02] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:07] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:07] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:07] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:09] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:09] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:09] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:09] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:12] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:13] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:13] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:13] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:15] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:15] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:18] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:18] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:18] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:18] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:19] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:19] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:19] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:20] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:20] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:20] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:25] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:25] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:28] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:28] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:32] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:32] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:32] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:36:32] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:37:02] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:37:02] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:37:02] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:37:02] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:37:02] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:37:02] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:38:45] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:38:45] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:38:45] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:38:45] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:38:45] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:38:45] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:38:56] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:38:56] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:38:56] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:38:56] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:38:56] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:38:56] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:12] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:12] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:15] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:15] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:15] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:15] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:16] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:16] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:42] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:42] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:42] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:44] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:44] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:44] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:47] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:47] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:47] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:40:47] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:45:10] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:45:10] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:45:10] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:45:10] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:45:11] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:45:11] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:48:24] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:48:24] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:48:24] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:48:24] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:48:24] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:48:24] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:48:39] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:48:39] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:48:39] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:48:39] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:48:39] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:48:39] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:51:42] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:51:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:51:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:51:43] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:51:43] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:51:43] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:55:05] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:55:05] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:55:05] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:55:05] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:55:05] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:55:05] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:55:10] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:55:10] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:56:28] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:56:28] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:56:28] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:56:28] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:56:28] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:58:08] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:58:08] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:58:08] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:58:08] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:58:08] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:58:15] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:58:15] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:58:15] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:58:15] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 19:58:15] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:00:44] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:00:44] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:00:44] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:00:44] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:00:44] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:04:45] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:04:45] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:04:45] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:04:45] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:04:45] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:04:53] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:04:53] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:04:53] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:04:53] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:04:53] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:05:02] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:05:02] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:05:02] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:05:02] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:05:11] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:05:11] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:08:15] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:08:15] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:08:15] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:08:15] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:08:15] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:09:24] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:09:24] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:09:24] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:09:24] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:09:24] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:09:44] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:09:44] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:09:44] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:09:44] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:09:58] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:09:58] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:10:35] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:10:35] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:10:36] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:10:36] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:10:38] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:10:38] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:13:14] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:13:14] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:13:14] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:13:14] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:13:14] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:13:46] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:13:46] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:13:46] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:13:46] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:13:46] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:18:33] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:18:33] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:18:33] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:18:33] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:18:33] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:18:40] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:18:40] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:18:43] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:18:43] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:20:22] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:20:22] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:20:22] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:20:22] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:20:22] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:20:29] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:20:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:20:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:20:29] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:20:29] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:22:00] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:22:00] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:22:01] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:22:01] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:22:01] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:22:06] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:22:06] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:22:06] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:22:06] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:22:06] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:22:10] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:22:10] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:22:10] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:23:37] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:23:37] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:23:37] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:23:37] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:23:37] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:23:44] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:23:44] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:23:45] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:23:45] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:23:45] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:26:03] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:26:03] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:26:03] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:26:03] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:26:03] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:28:07] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:28:07] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:28:07] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:28:07] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:28:07] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:29:49] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:29:49] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:29:49] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:29:49] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:29:49] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:31:27] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:31:27] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:31:27] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:31:27] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:31:27] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:32:20] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:32:20] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:32:20] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:32:20] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:32:20] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:34] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:34] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:40] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:40] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:40] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:40] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:46] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:46] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:55] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:55] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:55] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:55] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:56] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:56] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:56] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:59] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:59] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:33:59] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:34:16] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:34:16] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:35:02] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:35:02] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:35:02] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:35:02] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:35:02] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:36:09] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:36:09] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:36:09] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:36:09] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:36:09] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:37:19] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:37:19] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:37:19] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:37:19] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:37:19] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:37:56] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:37:56] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:37:56] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:37:56] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:37:56] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:11] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:11] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:11] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:11] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:12] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:12] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:12] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:13] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:13] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:13] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:14] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:14] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:19] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:19] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:19] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:19] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:20] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:20] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:20] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:21] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:21] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:21] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:24] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:24] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:33] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:33] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:34] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:34] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:42] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:42] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:42] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:51] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:51] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:51] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:51] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:57] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:57] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:57] "OPTIONS /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:38:57] "GET /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:05] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:05] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:05] "OPTIONS /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:05] "OPTIONS /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:05] "GET /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:05] "GET /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:10] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:11] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:11] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:11] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:11] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:17] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:17] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:17] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:17] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:20] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:20] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:39] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:39] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:39] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:39] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:41] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:41] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:47] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:39:47] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\problem_admin.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:45:48] "POST /admin/session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:46:13] "DELETE /admin/problem/1 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:46:20] "DELETE /admin/problem/2 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:46:24] "DELETE /admin/problem/5 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:49:36] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:50:53] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:51:24] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:53:20] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:54:08] "POST /admin/problem HTTP/1.1" 200 -
+ERROR problem_admin.py:33 (pymysql.err.DataError) (1406, "Data too long for column 'flag' at row 1")
+[SQL: INSERT INTO problems (tag, name, flag, content, link, filename, file_path, points, create_time, update_time) VALUES (%(tag)s, %(name)s, %(flag)s, %(content)s, %(link)s, %(filename)s, %(file_path)s, %(points)s, %(create_time)s, %(update_time)s)]
+[parameters: {'tag': 'misc', 'name': 'puzzle', 'flag': 'flag{f1R5T_part_1s_LSB_sTeG0_2nd_paRT_15_reVeRSe_bMp_3rd_parT_1s_paddINGINGING}', 'content': 'content1', 'link': None, 'filename': None, 'file_path': '/home/lighthouse/misc/puzzle.zip', 'points': '100', 'create_time': datetime.datetime(2023, 11, 29, 20, 54, 53, 967216), 'update_time': datetime.datetime(2023, 11, 29, 20, 54, 53, 967216)}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:54:53] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\model.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:57:02] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:58:22] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:58:50] "DELETE /admin/problem/12 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 20:59:41] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 21:00:21] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 21:01:06] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 21:01:53] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 21:02:34] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 21:03:34] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 21:05:43] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 21:06:11] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 21:06:41] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\app.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:43:46] "[35m[1mOPTIONS /session HTTP/1.1[0m" 500 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:43:50] "[35m[1mOPTIONS /session HTTP/1.1[0m" 500 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:25] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:26] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:27] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:27] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:28] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:28] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:28] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:28] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:28] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:28] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:28] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:28] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:29] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:29] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:29] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:29] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:31] "OPTIONS /problem/6 HTTP/1.1" 200 -
+ERROR problem.py:80 'NoneType' object has no attribute 'status'
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:45:31] "GET /problem/6 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:46:12] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:46:12] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:54:45] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:54:45] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:54:45] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:54:45] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:54:45] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:54:45] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:55:27] "OPTIONS /problem/23 HTTP/1.1" 200 -
+ERROR problem.py:80 'NoneType' object has no attribute 'status'
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:55:27] "GET /problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:56:41] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:56:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:56:42] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:56:42] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:56:42] "OPTIONS /problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:56:42] "GET /problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:56:44] "[33mGET /download/23 HTTP/1.1[0m" 404 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 22:57:03] "[33mGET /download/23 HTTP/1.1[0m" 404 -
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:00:57] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:00:57] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:00:57] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:00:57] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:00:57] "OPTIONS /problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:00:57] "GET /problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:01:03] "[33mGET /download/23 HTTP/1.1[0m" 404 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:04:31] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:04:31] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:04:31] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:04:31] "OPTIONS /problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:04:31] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:04:31] "GET /problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:04:32] "OPTIONS /download/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:04:32] "[33mGET /download/23 HTTP/1.1[0m" 404 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\utils\\constants.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:06:58] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:06:58] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:06:58] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:06:58] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:06:58] "OPTIONS /problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:06:58] "GET /problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:07:04] "OPTIONS /download/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:07:04] "[33mGET /download/23 HTTP/1.1[0m" 404 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:07:09] "OPTIONS /download/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:07:09] "[33mGET /download/23 HTTP/1.1[0m" 404 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:09:28] "OPTIONS /download/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:09:28] "GET /download/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:09:35] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:09:35] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:09:35] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:09:35] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:09:35] "OPTIONS /problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:09:35] "GET /problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:09:37] "OPTIONS /download/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:09:37] "GET /download/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:10:28] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:10:28] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:10:28] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:10:28] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:10:28] "OPTIONS /problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:10:28] "GET /problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:10:32] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:10:32] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:10:32] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:10:32] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:10:32] "OPTIONS /problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:10:32] "GET /problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:10:33] "GET /download/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:27:35] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:27:35] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:27:36] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:27:36] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:27:36] "OPTIONS /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:27:36] "GET /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:28:02] "OPTIONS /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:28:02] "GET /rank/teams HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:28:28] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:28:28] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:28:28] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:28:28] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:33:35] "OPTIONS /confirm/InpoYW5nX3ppcGVpQHNpbmEuY29tIg.ZVSxLw.v2wp1WBmbg4ZK8_UNbcZTPc9s0Q HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:33:35] "GET /confirm/InpoYW5nX3ppcGVpQHNpbmEuY29tIg.ZVSxLw.v2wp1WBmbg4ZK8_UNbcZTPc9s0Q HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:33:35] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:33:35] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:33:35] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:33:35] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:33:38] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:33:38] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:33:38] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:33:39] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:33:39] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:33:39] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:33:42] "OPTIONS /problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:33:42] "GET /problem/23 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:33:43] "[36mGET /download/23 HTTP/1.1[0m" 304 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:39:54] "OPTIONS /confirm/InpoYW5nX3ppcGVpQHNpbmEuY29tIg.ZVSxLw.v2wp1WBmbg4ZK8_UNbcZTPc9s0Q HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:39:54] "GET /confirm/InpoYW5nX3ppcGVpQHNpbmEuY29tIg.ZVSxLw.v2wp1WBmbg4ZK8_UNbcZTPc9s0Q HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:39:54] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:39:54] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:39:54] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:39:58] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:39:58] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:39:58] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:00] "OPTIONS /problem/20 HTTP/1.1" 200 -
+ERROR problem.py:80 'NoneType' object has no attribute 'status'
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:00] "GET /problem/20 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:05] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:05] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:06] "OPTIONS /problem/20 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:06] "GET /problem/20 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:07] "OPTIONS /assign/problem/20 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:07] "[35m[1mGET /assign/problem/20 HTTP/1.1[0m" 500 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:08] "[35m[1mGET /assign/problem/20 HTTP/1.1[0m" 500 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:09] "[35m[1mGET /assign/problem/20 HTTP/1.1[0m" 500 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:22] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:22] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:22] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:22] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:24] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:24] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:24] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:24] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:27] "OPTIONS /problem/19 HTTP/1.1" 200 -
+ERROR problem.py:80 'NoneType' object has no attribute 'status'
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:27] "GET /problem/19 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:31] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:31] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:31] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:31] "OPTIONS /problem/19 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:31] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:31] "GET /problem/19 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:33] "OPTIONS /assign/problem/19 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:40:33] "[35m[1mGET /assign/problem/19 HTTP/1.1[0m" 500 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\assign.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:41:49] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:41:49] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:41:50] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:41:50] "OPTIONS /problem/19 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:41:50] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:41:50] "GET /problem/19 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:41:52] "OPTIONS /assign/problem/19 HTTP/1.1" 200 -
+ERROR assign.py:31 [WinError 2] ÏµÍ³ Ò²   Ö¸     Ä¼   
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:41:52] "GET /assign/problem/19 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:41:54] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:41:54] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:42:28] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:42:28] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:42:28] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:42:28] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:42:29] "OPTIONS /problem/19 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:42:29] "GET /problem/19 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:42:30] "OPTIONS /assign/problem/19 HTTP/1.1" 200 -
+ERROR assign.py:31 [WinError 2] ÏµÍ³ Ò²   Ö¸     Ä¼   
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:42:30] "GET /assign/problem/19 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:42:34] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:42:34] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:42:34] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:43:23] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:43:23] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:43:23] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:43:23] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:43:31] "OPTIONS /problem/6 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:43:31] "GET /problem/6 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:43:32] "[33mGET /download/6 HTTP/1.1[0m" 404 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:43:44] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:43:44] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:43:46] "OPTIONS /problem/13 HTTP/1.1" 200 -
+ERROR problem.py:80 'NoneType' object has no attribute 'status'
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:43:46] "GET /problem/13 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:43:56] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:43:56] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:43:56] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:43:56] "OPTIONS /problem/13 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:43:56] "GET /problem/13 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:43:57] "[33mGET /download/13 HTTP/1.1[0m" 404 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:44:06] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:44:06] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:44:08] "OPTIONS /problem/17 HTTP/1.1" 200 -
+ERROR problem.py:80 'NoneType' object has no attribute 'status'
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:44:08] "GET /problem/17 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:44:12] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:44:12] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:44:12] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:44:12] "GET /problem/17 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [29/Nov/2023 23:44:16] "[33mGET /download/17 HTTP/1.1[0m" 404 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\file.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\assign.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\assign.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\assign.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\assign.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\assign.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\assign.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\assign.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\assign.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\assign.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\assign.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\assign.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\assign.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\assign.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:56:27] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:56:27] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:56:30] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:56:30] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:56:31] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:56:31] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:56:32] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:56:32] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:56:32] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:56:32] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:56:34] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:56:34] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:56:34] "OPTIONS /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:56:34] "GET /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:59:31] "OPTIONS /confirm/InpoYW5nX3ppcGVpQHNpbmEuY29tIg.ZVSxLw.v2wp1WBmbg4ZK8_UNbcZTPc9s0Q HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:59:31] "GET /confirm/InpoYW5nX3ppcGVpQHNpbmEuY29tIg.ZVSxLw.v2wp1WBmbg4ZK8_UNbcZTPc9s0Q HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:59:31] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:59:31] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:59:31] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:59:31] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:59:33] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:59:33] "OPTIONS /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 14:59:33] "GET /rank/users HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:10:11] "OPTIONS /confirm/InpoYW5nX3ppcGVpQHNpbmEuY29tIg.ZVSxLw.v2wp1WBmbg4ZK8_UNbcZTPc9s0Q HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:10:11] "GET /confirm/InpoYW5nX3ppcGVpQHNpbmEuY29tIg.ZVSxLw.v2wp1WBmbg4ZK8_UNbcZTPc9s0Q HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:10:11] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:10:11] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:10:11] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:10:14] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:10:14] "OPTIONS /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:10:14] "GET /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:10:50] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:10:50] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:10:50] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:10:50] "OPTIONS /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:10:50] "GET /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:10:59] "OPTIONS /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:10:59] "DELETE /user HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:11:01] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:11:01] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:11:02] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:11:07] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:11:07] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:37:39] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:37:39] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:37:39] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:37:44] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:37:44] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:37:53] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:37:53] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:37:55] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:37:56] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:37:56] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:37:59] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:37:59] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:37:59] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:37:59] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:38:02] "OPTIONS /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:38:02] "GET /writeup/3 HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:38:05] "OPTIONS /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:38:05] "GET /writeup_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:38:08] "OPTIONS /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:38:08] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:38:08] "OPTIONS /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:38:08] "GET /writeup/my_writeup HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:38:10] "GET /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:38:10] "OPTIONS /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 15:38:10] "GET /problem_menu HTTP/1.1" 200 -
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 16:34:20] "[35m[1mPOST /team?action=change_team_name HTTP/1.1[0m" 500 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 16:34:41] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 16:35:29] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 16:36:09] "POST /team?action=create_team HTTP/1.1" 200 -
+ERROR team.py:137 'Query' object has no attribute 'member'
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 16:36:16] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+ERROR team.py:137 'Query' object has no attribute 'member'
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 16:39:02] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\team.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+ERROR team.py:138 'Query' object has no attribute 'member'
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 16:44:38] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\team.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 16:44:51] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\team.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\team.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+ERROR team.py:144 'Query' object has no attribute 'member'
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 16:47:47] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\team.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 16:51:27] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\team.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 16:57:39] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\team.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+ERROR team.py:137 (pymysql.err.IntegrityError) (1452, 'Cannot add or update a child row: a foreign key constraint fails (`flask_ctf`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`team_name`) REFERENCES `teams` (`name`))')
+[SQL: UPDATE users SET team_name=%(team_name)s, update_time=%(update_time)s WHERE users.id = %(users_id)s]
+[parameters: {'team_name': 'cailiao', 'update_time': datetime.datetime(2023, 11, 30, 17, 1, 11, 964402), 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 17:01:11] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\team.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+ERROR team.py:137 (pymysql.err.IntegrityError) (1452, 'Cannot add or update a child row: a foreign key constraint fails (`flask_ctf`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`team_name`) REFERENCES `teams` (`name`))')
+[SQL: UPDATE users SET team_name=%(team_name)s, update_time=%(update_time)s WHERE users.id = %(users_id)s]
+[parameters: {'team_name': 'cailiao', 'update_time': datetime.datetime(2023, 11, 30, 17, 4, 1, 895142), 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 17:04:01] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\team.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+ERROR team.py:137 (pymysql.err.IntegrityError) (1452, 'Cannot add or update a child row: a foreign key constraint fails (`flask_ctf`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`team_name`) REFERENCES `teams` (`name`))')
+[SQL: UPDATE users SET team_name=%(team_name)s, update_time=%(update_time)s WHERE users.id = %(users_id)s]
+[parameters: {'team_name': 'cailiao', 'update_time': datetime.datetime(2023, 11, 30, 17, 4, 26, 21483), 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 17:04:26] "POST /team?action=change_team_name HTTP/1.1" 200 -
+ERROR team.py:137 (pymysql.err.IntegrityError) (1452, 'Cannot add or update a child row: a foreign key constraint fails (`flask_ctf`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`team_name`) REFERENCES `teams` (`name`))')
+[SQL: UPDATE users SET team_name=%(team_name)s, update_time=%(update_time)s WHERE users.id = %(users_id)s]
+[parameters: {'team_name': 'cailiao', 'update_time': datetime.datetime(2023, 11, 30, 17, 4, 40, 934934), 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 17:04:40] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\team.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+ERROR team.py:145 (pymysql.err.IntegrityError) (1452, 'Cannot add or update a child row: a foreign key constraint fails (`flask_ctf`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`team_name`) REFERENCES `teams` (`name`))')
+[SQL: UPDATE users SET team_name=%(team_name)s, update_time=%(update_time)s WHERE users.id = %(users_id)s]
+[parameters: {'team_name': 'cailiao', 'update_time': datetime.datetime(2023, 11, 30, 17, 6, 57, 121549), 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 17:06:57] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+ERROR team.py:145 (pymysql.err.IntegrityError) (1452, 'Cannot add or update a child row: a foreign key constraint fails (`flask_ctf`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`team_name`) REFERENCES `teams` (`name`))')
+[SQL: UPDATE users SET team_name=%(team_name)s, update_time=%(update_time)s WHERE users.id = %(users_id)s]
+[parameters: {'team_name': 'cailiao', 'update_time': datetime.datetime(2023, 11, 30, 17, 7, 50, 575622), 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 17:07:50] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\team.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\team.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+ERROR team.py:145 (pymysql.err.IntegrityError) (1452, 'Cannot add or update a child row: a foreign key constraint fails (`flask_ctf`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`team_name`) REFERENCES `teams` (`name`))')
+[SQL: UPDATE users SET team_name=%(team_name)s, update_time=%(update_time)s WHERE users.id = %(users_id)s]
+[parameters: {'team_name': 'cailiao', 'update_time': datetime.datetime(2023, 11, 30, 17, 14, 22, 972098), 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 17:14:22] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 17:14:42] "POST /team?action=change_team_name HTTP/1.1" 200 -
+ERROR team.py:145 (pymysql.err.IntegrityError) (1452, 'Cannot add or update a child row: a foreign key constraint fails (`flask_ctf`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`team_name`) REFERENCES `teams` (`name`))')
+[SQL: UPDATE users SET team_name=%(team_name)s, update_time=%(update_time)s WHERE users.id = %(users_id)s]
+[parameters: {'team_name': 'caicai', 'update_time': datetime.datetime(2023, 11, 30, 17, 14, 50, 170889), 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 17:14:50] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\team.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+ERROR team.py:126 'Query' object has no attribute 'name'
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 17:18:39] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\team.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 116-377-825
+ERROR team.py:145 (pymysql.err.IntegrityError) (1452, 'Cannot add or update a child row: a foreign key constraint fails (`flask_ctf`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`team_name`) REFERENCES `teams` (`name`))')
+[SQL: UPDATE users SET team_name=%(team_name)s, update_time=%(update_time)s WHERE users.id = %(users_id)s]
+[parameters: {'team_name': 'caicai', 'update_time': datetime.datetime(2023, 11, 30, 17, 21, 26, 970183), 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO _internal.py:96 127.0.0.1 - - [30/Nov/2023 17:21:26] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 858-117-052
+ERROR port.py:115 Error 10061 connecting to 127.0.0.1:6379. ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£.
+INFO _internal.py:96 127.0.0.1 - - [14/Dec/2023 17:27:59] "[35m[1mPOST /session HTTP/1.1[0m" 500 -
+INFO _internal.py:96 127.0.0.1 - - [14/Dec/2023 17:28:17] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [14/Dec/2023 17:28:34] "POST /session HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [14/Dec/2023 17:28:54] "GET /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [14/Dec/2023 17:29:20] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [14/Dec/2023 17:29:30] "GET /team HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [14/Dec/2023 17:29:40] "GET /team HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\team.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 858-117-052
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\ctf\\team.py', reloading
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 858-117-052
+INFO _internal.py:96 127.0.0.1 - - [14/Dec/2023 17:40:40] "POST /team?action=change_team_name HTTP/1.1" 200 -
+INFO _internal.py:96 127.0.0.1 - - [14/Dec/2023 17:40:45] "GET /team HTTP/1.1" 200 -
+INFO _internal.py:96 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO _internal.py:96 [33mPress CTRL+C to quit[0m
+INFO _internal.py:96  * Restarting with stat
+WARNING _internal.py:96  * Debugger is active!
+INFO _internal.py:96  * Debugger PIN: 108-215-978
+ERROR port.py:193 Error 10061 connecting to 127.0.0.1:6379. ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£.
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 13:30:03] "[35m[1mPOST /admin/session HTTP/1.1[0m" 500 -
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 13:30:15] "POST /admin/session HTTP/1.1" 200 -
+ERROR problem_admin.py:85 (pymysql.err.IntegrityError) (1062, "Duplicate entry 'test' for key 'problems.name'")
+[SQL: INSERT INTO problems (tag, name, flag, content, link, filename, file_path, points, create_time, update_time) VALUES (%(tag)s, %(name)s, %(flag)s, %(content)s, %(link)s, %(filename)s, %(file_path)s, %(points)s, %(create_time)s, %(update_time)s)]
+[parameters: {'tag': 'pwn', 'name': 'test', 'flag': '1', 'content': '1', 'link': None, 'filename': 'test.sql', 'file_path': 'D:/projects/ctfbackend/storage\\test.sql', 'points': '100', 'create_time': datetime.datetime(2023, 12, 26, 13, 30, 22, 466177), 'update_time': datetime.datetime(2023, 12, 26, 13, 30, 22, 466177)}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO _internal.py:96 127.0.0.1 - - [26/Dec/2023 13:30:22] "POST /admin/problem HTTP/1.1" 200 -
+INFO _internal.py:96  * Detected change in 'D:\\projects\\ctfbackend\\main\\__init__.py', reloading
+INFO _internal.py:96  * Restarting with stat
